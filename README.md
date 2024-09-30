@@ -24,8 +24,7 @@ After trying different units and different layers the accuraccy rating I achieve
 
 Unfortunately did not achieve the 75% I was aiming for, all combinations I seeked got me roughly the same results.
 
-
-Summary and Recommendation
+### Summary and Recommendation
 
 Overall, by optimizing the model we are able to increase the accuracy to above 73%.
 
